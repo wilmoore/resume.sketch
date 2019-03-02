@@ -29,7 +29,7 @@ Simple; I enjoy the process. Furthermore, this is a document that will follow me
   - **MIDDLE** (`LOCKED`)
   - **BOTTOM** (`LOCKED`)
 
-There are several **Layer Groups** nested under `TOP`, `MIDDLE`, and `BOTTOM`; however, you'll have to open the `.sketch` file to discover those as those could changes slightly over time and I'd prefer not to have to update this above to accomodate.
+There are several **Layer Groups** nested under `TOP`, `MIDDLE`, and `BOTTOM`; however, you'll have to open the `.sketch` file to discover those as those could changes slightly over time and I'd prefer not to have to update this above to accomodate. All layers and layer groups are locked. This is so I do not accidentally re-position a layer. One nicety of `Sketch.app` is that you can still edit text while the text layer is locked from re-positioning. Select the text layer from the side panel and hit `Enter` to get into edit mode.
 
 ## Plugins Used
 - [annotations-sketch-plugin][]: used to hide/show recruiting firm as certain recruiting firms do not want to pass that info their their end-client (they can be a bit paranoid...I've never seen a client try to circumvent the system)
