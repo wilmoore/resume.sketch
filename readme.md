@@ -1,5 +1,5 @@
 # Resume of [Wilbert (Wil) Moore III][Wilbert (Wil) Moore III on LinkedIn] in `Sketch.app`
-> To all of my technical recruiter friends; this is why I am unable to provide you with a Microsoft Word version of my resume...it simply doesn't exist.
+> Hello technical recruiter friends; this is why I am unable to provide you with a Microsoft Word version of my resume...it doesn't exist.
 
 [![](./readme/screenshots/resume.png)](https://linkedin.com/in/wilmoore)
 
