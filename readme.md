@@ -35,7 +35,7 @@ There are several **Layer Groups** nested under `TOP`, `MIDDLE`, and `BOTTOM`; h
 - [annotations-sketch-plugin][]: used to hide/show recruiting firm as certain recruiting firms do not want to pass that info their their end-client (they can be a bit paranoid...I've never seen a client try to circumvent the system)
 
 ## Want to steal this?
-I'm OK with that; I only ask two things:
+I'm OK with that; I only ask `10` things :)
 
 0. Fork this repo so there is a link back to this repo.
 0. Remix vs copy the design; give it your own flavor. If you blindly copy, you won't ultimately be happy with yourself.
