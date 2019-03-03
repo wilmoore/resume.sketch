@@ -35,7 +35,14 @@ There are several **Layer Groups** nested under `TOP`, `MIDDLE`, and `BOTTOM`; h
 - [annotations-sketch-plugin][]: used to hide/show recruiting firm as certain recruiting firms do not want to pass that info their their end-client (they can be a bit paranoid...I've never seen a client try to circumvent the system)
 
 ## Want to steal this?
-Sure, go ahead and fork this repo and make it your own. You don't have to give me any attribution or anything like that...that would be a bit tacky and this resume is supposed to be elegant, so enjoy.
+I'm OK with that, ask long as you do two things:
+
+0. Fork this repo so there is a link back to this repo.
+0. Remix vs copy the design; give it your own flavor. If you blindly copy, you won't ultimately be happy with yourself.
+
+## Inspiration
+- [circle links & skills progress bar](https://getresume.co/downloads/free-sketch-psd-resume-template)
+- [work experience button line](https://dribbble.com/shots/2862301-Free-Sketch-Resume-Template)
 
 
 [The Nomadic Developer]: https://amzn.to/2C1gqlt
