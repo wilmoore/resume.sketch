@@ -1,7 +1,7 @@
 # Resume of [Wilbert (Wil) Moore III][Wilbert (Wil) Moore III on LinkedIn] in `Sketch.app`
 > Hello technical recruiter friends; this is why I am unable to provide you with a Microsoft Word version of my resume...it doesn't exist.
 
-[![](./readme/screenshots/resume.png)](https://linkedin.com/in/wilmoore)
+[![](./readme/screenshots/resume.png)][download]
 
 ## Why a vector graphics program?
 Why would a software engineer choose to a vector graphics program to edit his resume? Why not use Microsoft Word? Simple...for layout, this is the right tool. In my first two professional (non-retail) jobs were as a desktop publisher (Kinkos & Safeguard). I grew up on Macromedia Freehand, Adobe Illustrator, Adobe PageMaker, and QuarkXPress.
@@ -40,3 +40,4 @@ I'm OK with that; I only ask `10` things :)
 [Wilbert (Wil) Moore III on LinkedIn]: https://linkedin.com/in/wilmoore
 [annotations-sketch-plugin]: https://github.com/BaguetteEngineering/annotations-sketch-plugin
 [Black White Social Media Icons By Alfredo]: https://www.iconfinder.com/iconsets/black-white-social-media
+[download]: https://github.com/wilmoore/sketch.app.resume/raw/master/Wilbert-Wil-Moore-III-Resume.pdf
