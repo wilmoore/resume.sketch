@@ -1,5 +1,5 @@
 # Resume of [Wilbert (Wil) Moore III][Wilbert (Wil) Moore III on LinkedIn] in `Sketch.app`
-> Hello recruiter friends; this is why I am unable to provide you with a Microsoft Word version of my resume...click on the screenshot to download a `.pdf` version of my resume.
+> Hello recruiter friends; this is why I am unable to provide you with a Microsoft Word version of my resume...click on the screenshot to download the latest version of my resume in `.pdf` format.
 
 [![](./readme/screenshots/resume.png)][download]
 
