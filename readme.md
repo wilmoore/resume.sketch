@@ -29,6 +29,9 @@ I'm OK with that; I only ask `10` things :)
 0. Fork this repo so there is a link back to this repo.
 0. Remix vs copy the design; give it your own flavor.
 
+## Artwork Credits
+- [Black White Social Media Icons By Alfredo][]
+
 ## Inspiration
 - [circle links & skills progress bar](https://getresume.co/downloads/free-sketch-psd-resume-template)
 - [work experience button line](https://dribbble.com/shots/2862301-Free-Sketch-Resume-Template)
@@ -36,3 +39,4 @@ I'm OK with that; I only ask `10` things :)
 
 [Wilbert (Wil) Moore III on LinkedIn]: https://linkedin.com/in/wilmoore
 [annotations-sketch-plugin]: https://github.com/BaguetteEngineering/annotations-sketch-plugin
+[Black White Social Media Icons By Alfredo]: https://www.iconfinder.com/iconsets/black-white-social-media
