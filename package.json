@@ -25,6 +25,7 @@
   "repository": "git@github.com:wilmoore/resume.sketch.git",
   "scripts": {
     "preinstall": "brew install gs",
-    "screenshot": "gs -dNOPAUSE -dBATCH -sDEVICE=png16m -dFirstPage=1 -dLastPage=1 -sOutputFile=readme/screenshots/Wilbert-Wil-Moore-III-Resume.png Wilbert-Wil-Moore-III-Resume.pdf"
+    "screenshot-old": "gs -dNOPAUSE -dBATCH -sDEVICE=png16m -dFirstPage=1 -dLastPage=1 -sOutputFile=readme/screenshots/Wilbert-Wil-Moore-III-Resume.png Wilbert-Wil-Moore-III-Resume.pdf",
+    "screenshot": "gs -dNOPAUSE -dBATCH -sDEVICE=png16m -dFirstPage=1 -dLastPage=1 -sOutputFile=readme/screenshots/deyon-washington-resume.png deyon-washington-resume.pdf"
   }
 }
